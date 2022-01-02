@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Neel Bullywon</h1>
+<h1 align="center">Hi 👋, I'm Neel B</h1>
 <h3 align="center">An Electrical Engineering student with a passion for hardware and software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebu0528&label=Profile%20views&color=0e75b6&style=flat" alt="nebu0528" /> </p>
