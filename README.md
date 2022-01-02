@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebu0528&label=Profile%20views&color=0e75b6&style=flat" alt="nebu0528" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nebu0528" alt="nebu0528" /></a> </p>
 
 - 🔭 I’m currently working on [Globechat](https://github.com/Nebu0528/GlobeChat-R-FB)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
