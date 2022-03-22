@@ -3,7 +3,7 @@
 <h3 align="center">An Electrical Engineering student with a passion for embedded systems and software development</h3>
  
 
-- 🔭 I’m currently working on [Globechat](https://github.com/Nebu0528/GlobeChat-R-FB)
+- 🔭 I’m currently working on [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
 
 <p align="left">
 </p>
