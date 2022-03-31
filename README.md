@@ -4,7 +4,8 @@
  
 
 - 🔭 I’m currently working on [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
-- 👉 Digital Circuits/FPGA Related Projects [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone) [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
+- 👉 Digital Circuits/FPGA Related Projects: [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone) [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
+- 👉 PCB Altium Design Projects: [Neelduino](https://github.com/Nebu0528/28-Pins-Arduino) [Buck Converter](https://github.com/Nebu0528/Buck-Converter)
 
 
 <p align="left">
