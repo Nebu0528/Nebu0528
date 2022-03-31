@@ -4,6 +4,8 @@
  
 
 - 🔭 I’m currently working on [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
+- 👉 Digital Circuits/FPGA Related Projects [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone) [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
+
 
 <p align="left">
 </p>
