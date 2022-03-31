@@ -4,7 +4,7 @@
  
 
 - 🔭 I’m currently working on [Navigation Lights](https://github.com/Nebu0528/Nav-Lights-Drone)
-- 👉 Digital Circuits/FPGA Related Projects: [Logical Step](https://github.com/Nebu0528/Logical-Step-Lab-3-ECE-124) || [Sequential Circuits/Logic State Machines](https://github.com/Nebu0528/LAB4-VHDL-for-Sequential-Circuits-Sequential-Logic-State-Machines)
+- 👉 Digital Circuits/FPGA Related Projects: [Logical Step](https://gitfront.io/r/user-9102477/dcdebbfde708fd2928bf95164185355c8a4e4db7/Logical-Step-Lab-3-ECE-124-gitfront/) || [Sequential Circuits/Logic State Machines](https://gitfront.io/r/user-9102477/0a4603675265097583a6a470cb947711a2400848/LAB4-VHDL-for-Sequential-Circuits-Sequential-Logic-State-Machines-gitfront/)
 - 👉 PCB Altium Design Projects: [Neelduino](https://github.com/Nebu0528/28-Pins-Arduino) || [Buck Converter](https://github.com/Nebu0528/Buck-Converter)
 
 
