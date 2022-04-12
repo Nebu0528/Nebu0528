@@ -3,7 +3,7 @@
 <h3 align="center">An Electrical Engineering student with a passion for PCB Design, FPGAs, embedded systems and software development</h3>
  
 
-- 🔭 I’m currently working on PCBs with [WATonomous](https://github.com/WATonomous)
+- 🔭 I’m currently working on PCBs for [WATonomous](https://github.com/WATonomous) - specifics and projects under NDA with General Motors
 <!--- - 👉 Digital Circuits/FPGA Related Projects: [Logical Step](https://gitfront.io/r/user-9102477/dcdebbfde708fd2928bf95164185355c8a4e4db7/Logical-Step-Lab-3-ECE-124-gitfront/) || [Sequential Circuits/Logic State Machines](https://gitfront.io/r/user-9102477/0a4603675265097583a6a470cb947711a2400848/LAB4-VHDL-for-Sequential-Circuits-Sequential-Logic-State-Machines-gitfront/)-->
 - 👉 PCB Altium Design Projects: [Neelduino](https://github.com/Nebu0528/28-Pins-Arduino) || [Buck Converter](https://github.com/Nebu0528/Buck-Converter)
 
