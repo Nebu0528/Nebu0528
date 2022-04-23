@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Neel B</h1>
-<h3 align="center">An Electrical Engineering student with a passion for PCB Design, FPGAs, embedded systems and software development</h3>
+<h3 align="center">A Computer Engineering student with a passion for PCB Design, FPGAs, embedded systems and software development</h3>
  
 
 - 🔭 I’m currently working on PCBs for [WATonomous](https://github.com/WATonomous) - specifics and projects under NDA with General Motors
