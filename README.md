@@ -4,7 +4,7 @@
  
 
 - Projects:
-- [TextSummarizer-Transformers-Bart](https://github.com/Nebu0528/TextSummarizer-Transformers-Bart)
+- [Netflix Insights Dashboard](https://github.com/Nebu0528/Netflix-Dashboard)
 - [CodeDocAI](https://github.com/Nebu0528/CodeDocAI)
 
 
