@@ -6,6 +6,7 @@ I have one year of professional experience in Cloud Infrastructure, Data Enginee
  
 
 - Projects:
+- [HearMeOut-UoftHacks12](https://github.com/Nebu0528/HearMeOut-UoftHacks12)
 - [Netflix Insights Dashboard](https://github.com/Nebu0528/Netflix-Dashboard)
 - [CodeDocAI](https://github.com/Nebu0528/CodeDocAI)
 
