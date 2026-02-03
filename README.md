@@ -1,16 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Neel</h1>
+<h1 align="center">Hi, I'm Neel</h1>
 <h3 align="center">A Computer Engineering student at the University of Waterloo</h3>
 
-I have one year of professional experience in Cloud Infrastructure, Data Engineering, and Full-Stack Development. My side projects reflect the skills and experiences gained during my internships, ranging from building analytics dashboards, developing fullstack applications/websites and to fine-tuning machine learning models.
+In my side projects, I'm currently working on one called distributed-compute-locally (named distributor on github), a simple pypi package that allows you to use compute from your local devices by simply connecting them via your local network. So far it has amassed 700+ downloads (without mirrors) and I'm looking to implement more features :). 
 
-Current interning as a Data Engineer from May 2025 - August 2025.
- 
-
-- Projects:
-- [HearMeOut-UoftHacks12](https://github.com/Nebu0528/HearMeOut-UoftHacks12)
-- [Netflix Insights Dashboard](https://github.com/Nebu0528/Netflix-Dashboard)
-- [CodeDocAI](https://github.com/Nebu0528/CodeDocAI)
+I also work as a Data Engineer, developing reliable data pipelines and implementing distributed computing methodologies to distribute workloads.
 
 
 <p align="left">
