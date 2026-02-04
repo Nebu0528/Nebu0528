@@ -6,7 +6,7 @@ In my side projects, I'm currently working on one called distributed-compute-loc
 
 On the side, I've started contributing on the Linux Kernel! Here is a link to my [patches](https://lore.kernel.org/all/?q=f:neelb2403@gmail.com) where I contributed to the IIO and Greybus subsystems.
 
- as a Data Engineer, developing reliable data pipelines and implementing distributed computing methodologies to distribute workloads.
+Currently working as a Data Engineer, developing reliable data pipelines and implementing distributed computing methodologies to distribute workloads.
 
 
 <p align="left">
